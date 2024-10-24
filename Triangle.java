@@ -15,6 +15,7 @@ public class Triangle {
 		return A.distance(B) + B.distance(C) + C.distance(A);
 	}
 
+
 	public boolean isEquilateral() {
 		double dAB = A.distance(B);
 		double dBC = B.distance(C);
