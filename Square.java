@@ -1,4 +1,4 @@
-package lab4;
+package Lab4;
 
 public class Square {
 	
@@ -17,7 +17,8 @@ public class Square {
 	public boolean isSquare() {
 		return (A.distance(B) == B.distance(C) &&
 				B.distance(C) == C.distance(D) &&
-				C.distance(D) == D.distance(A));
+				C.distance(D) == D.distance(A) &&
+				A.distance(C) == B.distance(D));
 	}
 	
 	

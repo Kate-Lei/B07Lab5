@@ -1,21 +1,21 @@
-package lab4;
+
+package Lab4;
 
 public class Triangle {
 	Point A;
 	Point B;
 	Point C;
-
+	
 	public Triangle(Point A, Point B, Point C) {
 		this.A = A;
 		this.B = B;
 		this.C = C;
 	}
-
+	
 	public double perimeter() {
 		return A.distance(B) + B.distance(C) + C.distance(A);
 	}
-
-
+	
 	public boolean isEquilateral() {
 		double dAB = A.distance(B);
 		double dBC = B.distance(C);
