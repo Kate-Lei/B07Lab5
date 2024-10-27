@@ -1,4 +1,4 @@
-package Lab4;
+package lab4;
 
 import junit.framework.TestCase;
 import org.junit.jupiter.api.Test;
