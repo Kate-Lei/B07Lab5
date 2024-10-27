@@ -1,0 +1,70 @@
+!SESSION 2024-10-26 22:06:30.548 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CA_#Hans
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/katelei/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/katelei/.eclipse_keyring -data /Users/katelei/B07Lab5
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 22:06:34.745
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 22:06:36.977
+!MESSAGE Logback config file: /Users/katelei/B07Lab5/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-10-26 22:49:47.793 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CA_#Hans
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/katelei/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/katelei/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 22:49:51.679
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 22:49:54.221
+!MESSAGE Logback config file: /Users/katelei/B07Lab5/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-10-26 22:51:50.183 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CA_#Hans
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/katelei/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/katelei/.eclipse_keyring -data file:/Users/katelei/B07Lab5/
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 22:51:54.557
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 22:51:57.165
+!MESSAGE Logback config file: /Users/katelei/B07Lab5/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-10-26 22:53:17.906 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CA_#Hans
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/katelei/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/katelei/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 22:53:21.681
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 22:53:24.010
+!MESSAGE Logback config file: /Users/katelei/B07Lab5/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+!SESSION 2024-10-26 22:56:08.612 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CA_#Hans
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/katelei/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -keyring /Users/katelei/.eclipse_keyring -data /Users/katelei/B07Lab5
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 22:56:12.303
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-10-26 22:56:14.532
+!MESSAGE Logback config file: /Users/katelei/B07Lab5/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.core.resources 2 2 2024-10-26 23:41:41.184
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2024-10-26 23:41:41.185
+!MESSAGE The project description file (.project) for 'lab5' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
