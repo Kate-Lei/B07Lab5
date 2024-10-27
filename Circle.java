@@ -19,7 +19,7 @@ public class Circle {
     }
 
     
-    public double copmuteCircumference() {
+    public double computeCircumference() {
         return 2 * Math.PI * radius;
     }
 
