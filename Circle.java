@@ -1,8 +1,8 @@
-package Lab4;
+package lab4;
 
 public class Circle {
-    private Point center;
-    private double radius; 
+    Point center;
+    double radius; 
     
     public Circle(Point center, double radius) {
         this.center = center;
@@ -14,16 +14,16 @@ public class Circle {
     }
 
 
-    public double getArea() {
+    public double computeArea() {
         return Math.PI * radius * radius;
     }
 
     
-    public double getCircumference() {
+    public double copmuteCircumference() {
         return 2 * Math.PI * radius;
     }
 
-    public boolean contains(Point p) {
+    public boolean containsPoint(Point p) {
         double distance = center.distance(p);
         return distance <= radius;
     }
